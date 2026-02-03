@@ -1,11 +1,10 @@
 <h2> Hi, I'm echoCqy! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Frontend Developer from <a href="https://www.gov.cn">China</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Enginner at <a href="http://www.unb.br">China</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![GitHub echoCqy](https://img.shields.io/github/followers/echo-cqy?label=follow&style=social)](https://github.com/echo-cqy)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const echoCqy = {
@@ -21,6 +20,6 @@ const echoCqy = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm passionate about frontend development and love sharing knowledge with the community!</b> Feel free to reach out if you want to connect or collaborate! :)</em>
+<em><b>I'm passionate about frontend development and love sharing knowledge with the community!</b> Feel free to reach out if you want to connect or collaborate! :)</em>
 
 ---
